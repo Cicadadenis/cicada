@@ -58,6 +58,10 @@ git clone https://github.com/bednakovdenis/telega-cicada
 
 cd 
 
+pip install requests
+
+cd
+
 cd telega-cicada
 
 cd 1
